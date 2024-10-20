@@ -1,4 +1,4 @@
-<h1>WEB 340 Enterprise JavaScript II</h1>
+# WEB 340 Node.js
 
 <h2>Contributors:</h2>
 <ul>
