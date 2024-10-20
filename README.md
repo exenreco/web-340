@@ -1,2 +1,8 @@
 # web-340
-Collection of projects and chapters completed for the web-340 course at Bellevue University
+<h1>WEB 340 Enterprise JavaScript II</h1>
+
+<h2>Contributors:</h2>
+<ul>
+    <li>Exenreco Bell</li>
+    <li>Richard Krasso</li>
+</ul>
