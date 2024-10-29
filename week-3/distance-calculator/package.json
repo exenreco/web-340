@@ -1,0 +1,13 @@
+{
+  "name": "distance-calculator",
+  "version": "1.0.0",
+  "description": "Module to calculate distances between planets in AU.",
+  "main": "src/distance-calculator.js",
+  "scripts": {
+    "test": "node --use_strict ./test/distance-calculator.spec.js"
+  },
+  "author": "Exenreco Bell",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
