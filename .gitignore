@@ -18,4 +18,8 @@ node_modules/
 #ignore all files in temp folder
 temp/
 
+# Hide all note files
+*/CHECK_IF_REMOVE_NODE_MODULES.txt
+CHECK_IF_REMOVE_NODE_MODULES.txt
+
 # incomplete Directories
