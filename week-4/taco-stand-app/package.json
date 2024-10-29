@@ -1,15 +1,18 @@
 {
   "name": "taco-stand-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Taco Stand Event Emitter and CLI Program",
+  "main": "./src/index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/taco-stand.spec.js",
+    "start": "node ./src/index.js"
   },
+  "dependencies": {},
+  "devDependencies": {},
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Exenreco Bell",
+  "license": "MIT"
 }
