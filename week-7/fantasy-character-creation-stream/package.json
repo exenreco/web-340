@@ -1,17 +1,17 @@
 {
   "name": "fantasy-character-creation-stream",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "character creation system for a fantasy video game",
+  "main": "./index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Exenreco Bell",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.5.11",
     "jest": "^29.7.0"
