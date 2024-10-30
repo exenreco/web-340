@@ -2,7 +2,7 @@
  * Author: Exenreco Bell
  * Date: October 23, 2024
  * File Name: weight-converter.js
- * Description: This script takes one command line argument, which is the weight in pounds. It checks if the input is valid (a number) and converts it to kilograms using a conversion factor of 2.20462. The result is rounded to two decimal places.
+ * Description: This script takes one command line argument; which is the weight in pounds. It checks if the input is valid (a number) and converts it to kilograms using a conversion factor of 2.20462. The result is rounded to two decimal places.
 */
 
 "use strict";
